@@ -22,6 +22,15 @@ The main goal of this project is to practice semantic HTML structure while prese
 
 ---
 
+## 🖼️ Portfolio Preview
+
+Here is a preview of my personal portfolio website:
+
+<img width="945" height="448" alt="image" src="https://github.com/user-attachments/assets/edb16224-3c95-4ce3-8cb7-2ddd3e5873e4" />
+
+
+---
+
 ## ✨ Features
 
 - Semantic HTML5 structure
@@ -97,5 +106,7 @@ Personal-Portfolio/
 │
 ├── index.html
 ├── README.md
+│
 └── images/
-    └── profile-image.jpeg
+    ├── profile-image.jpeg
+    └── portfolio-preview.png
